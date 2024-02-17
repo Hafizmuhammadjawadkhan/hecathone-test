@@ -1,0 +1,6 @@
+body{
+    background-color: yellow;
+}
+.navimg{
+    filter: grayscale(1) brightness(0);
+}
